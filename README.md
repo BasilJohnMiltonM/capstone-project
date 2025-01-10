@@ -1,7 +1,8 @@
-# Capstone Project - AI-Driven LLM Agent for Data WorkFlow
+# Capstone Project - LLM-Powered AI Agent for Automated Data WorkFlow
 
 ## Description
-This project implements an AI-powered chatbot for vehicle data workflow. It enables users to query vehicle-related information, fetches data from relevant websites and displays it in user-friendly formats.
+This project implements an AI-powered chatbot for vehicle data workflow. It enables users to query vehicle-related information, fetches data from relevant websites, and displays it in user-friendly formats.
+This project is done as a capstone project for the Analytics Strategy and Practice course at UIC.
 
 ## Prerequisites
 - Python 3.x (recommended: 3.9 or above)
@@ -53,10 +54,4 @@ This will open a browser, navigate to Google, and print the page title in the co
 - `uic_logo.png`: Logo of UIC used in the project interface.
 - `.gitignore.txt`: Specifies files to ignore during version control (e.g., `config.json`).
 
-## Contributors
-Anjali Garg - Anjaligarg1010@gmail.com
-Basil John Milton Muthuraj - bjmm1296@gmail.com
-Karishma Kamble - kkarishma2809@gmail.com
-Mohan Areti - Mohan.areti7@gmail.com
-Yun Wu Hailey - yo861128@gmail.com
 
